@@ -31,7 +31,7 @@ function getArea(object, value1, value2, value3) {
 
     memory.push("getArea");
     resultMemory.push(answer);
-    //함수의 결과값도 push해야함
+  
 }
 
 getArea('circle', 2);
